@@ -1,0 +1,21 @@
+
+.navbar{
+    
+    background-color: #2370f4!important;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    
+}
+
+.navbar-brand{
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+
+.navbar-nav .nav-link{
+    padding-right: 20px;
+    color: rgb(238, 238, 238);
+}
